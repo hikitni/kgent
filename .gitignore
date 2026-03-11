@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.coverage
+htmlcov/
+
+# Build
+build/
+dist/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# MCP server cache directories
+analytics/
+android-battery/
+android-logs/
+android-performance/
+android-screenshots/
+cache/
+codegen/
+collaboration/
+custom-templates/
+learning/
+memory/
+predictive/
+prompt-library/
+swarm/
+templates/
+
+# Project specific
+.daily_reporter/
+reports/
+config.json
